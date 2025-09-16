@@ -1,9 +1,9 @@
 # ARM-32bit
-🌐 **[EN]:** This repository contains a 32-bit ARM processor developed as an activity for the Computer Systems Laboratory: Computer Architecture and Organization course, at ICT Unifesp, in 2025-1. 
+🌐 **[EN]:** This repository contains a 32-bit ARM processor developed as an activity for the Computer Systems Laboratory: Computer Architecture and Organization course at ICT Unifesp in 2025-1. 
 
 🌐 **[PT-BR]:** Este repositório contém um processador ARM de 32 bits desenvolvido como atividade na disciplina Laboratório de Sistemas Computacionais: Arquitetura e Organização de Computadores, no ICT Unifesp, em 2025-1.
 
-## Visão Geral | Overview
+## Overview | Visão Geral
 🌐 **[EN]:** <ins>32-bit ARM architecture monocycle processor</ins> with <ins>32 general-purpose registers</ins> and <ins>4 ways of addressing memory</ins>. An <ins>FPGA interface system</ins> was also developed, which contains input, output, debouncing and clock selection modules. 
 
 🌐 **[PT-BR]:** Processador de <ins>arquitetura ARM</ins> <ins>monociclo</ins> de <ins>32 bits</ins>, com <ins>32 registradores de propósito geral</ins> e <ins>4 tipos de endereçamento à memória</ins>. Foi desenvolvido também um <ins>sistema de interface com FPGA</ins>, que contém módulos de entrada, saída, _debouncing_ e seleção de _clock_.
